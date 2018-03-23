@@ -1,0 +1,8 @@
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\Release\Customparamtype.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\Release\Customparamtype.pdb
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\Release\PublicConstValue.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\Release\PublicConstValue.pdb
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\Release\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\Release\ResolveAssemblyReference.cache
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\Release\Customparamtype.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\Release\Customparamtype.pdb

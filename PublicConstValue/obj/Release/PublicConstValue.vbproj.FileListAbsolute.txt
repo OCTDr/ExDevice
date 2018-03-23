@@ -1,0 +1,10 @@
+E:\ROOT\PublicConstValue.dll
+E:\ROOT\PublicConstValue.pdb
+E:\ROOT\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\ResolveAssemblyReference.cache
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\PublicConstValue.Resources.resources
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\GenerateResource.read.1.tlog
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\GenerateResource.write.1.tlog
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\PublicConstValue.dll
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\Release\PublicConstValue.pdb

@@ -1,0 +1,16 @@
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\obj\Debug\Customparamtype.csprojResolveAssemblyReference.cache
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\bin\Debug\Customparamtype.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\bin\Debug\Customparamtype.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\bin\Debug\PublicConstValue.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\bin\Debug\PublicConstValue.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\bin\Debug\PublicConstValue.xml
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\obj\Debug\Customparamtype.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\Customparamtype\obj\Debug\Customparamtype.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\bin\Debug\Customparamtype.dll
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\bin\Debug\Customparamtype.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\bin\Debug\PublicConstValue.dll
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\bin\Debug\PublicConstValue.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\bin\Debug\PublicConstValue.xml
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\obj\Debug\Customparamtype.csprojResolveAssemblyReference.cache
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\obj\Debug\Customparamtype.dll
+E:\程序开发\测绘仪器检定信息化服务平台\Customparamtype\obj\Debug\Customparamtype.pdb

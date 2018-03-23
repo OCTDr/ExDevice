@@ -1,0 +1,1 @@
+2018/1/23 10:18:39ORA-12154: TNS: 无法解析指定的连接标识符select sysdate from dual

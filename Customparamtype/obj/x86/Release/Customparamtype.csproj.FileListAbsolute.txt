@@ -1,0 +1,16 @@
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\x86\Release\Customparamtype.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\x86\Release\Customparamtype.pdb
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.pdb
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\x86\Release\ResolveAssemblyReference.cache
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\x86\Release\Customparamtype.dll
+E:\质检平台开发源程序\ZJPT_DevProject\Customparamtype\obj\x86\Release\Customparamtype.pdb
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\bin\x86\Release\Customparamtype.dll
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\bin\x86\Release\Customparamtype.pdb
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.dll
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.pdb
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\bin\x86\Release\PublicConstValue.xml
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\obj\x86\Release\Customparamtype.csprojResolveAssemblyReference.cache
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\obj\x86\Release\Customparamtype.dll
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\Customparamtype\obj\x86\Release\Customparamtype.pdb

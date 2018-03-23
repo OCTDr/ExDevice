@@ -1,0 +1,10 @@
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\bin\Debug\shouxieqianming.exe.config
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\bin\Debug\shouxieqianming.exe
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\bin\Debug\shouxieqianming.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.Form1.resources
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.exe
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\shouxieqianming\obj\Debug\shouxieqianming.Form2.resources

@@ -1,0 +1,47 @@
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\Polenter.SharpSerializer.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\Polenter.SharpSerializer.xml
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\ZYSocketFrame.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\ZYSocketShare.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\QcPublic.XML
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\QcPublic.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\Customparamtype.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Debug\Customparamtype.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Debug\QcPublic.csprojResolveAssemblyReference.cache
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Debug\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Debug\QcPublic.pdb
+D:\工作相关\程序开发\QcPublic\obj\Debug\QcPublic.csprojResolveAssemblyReference.cache
+D:\工作相关\程序开发\QcPublic\obj\Debug\QcPublic.dll
+D:\工作相关\程序开发\QcPublic\obj\Debug\QcPublic.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\obj\Debug\QcPublic.csprojResolveAssemblyReference.cache
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\obj\Debug\QcPublic.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\obj\Debug\QcPublic.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\Polenter.SharpSerializer.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\Polenter.SharpSerializer.xml
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\ZYSocketFrame.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\ZYSocketShare.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\QcPublic.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\QcPublic.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\Customparamtype.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\DevComponents.DotNetBar2.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\PublicConstValue.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\Customparamtype.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\PublicConstValue.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\PublicConstValue.xml
+D:\工作相关\程序开发\信息化测绘仪器检定系统\QcPublic\bin\Debug\QcPublic.XML
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\Polenter.SharpSerializer.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\Polenter.SharpSerializer.xml
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\ZYSocketFrame.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\ZYSocketShare.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\QcPublic.XML
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\QcPublic.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\QcPublic.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\Customparamtype.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\DevComponents.DotNetBar2.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\PublicConstValue.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\Customparamtype.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\PublicConstValue.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\bin\Debug\PublicConstValue.xml
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\obj\Debug\QcPublic.csprojResolveAssemblyReference.cache
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\obj\Debug\QcPublic.dll
+E:\程序开发\测绘仪器检定信息化服务平台\QcPublic\obj\Debug\QcPublic.pdb

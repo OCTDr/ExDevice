@@ -1,0 +1,21 @@
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\Polenter.SharpSerializer.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\Polenter.SharpSerializer.xml
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\ZYSocketFrame.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\ZYSocketShare.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\bin\x86\Release\QcPublic.pdb
+D:\DLG单击版\Polenter.SharpSerializer.dll
+D:\DLG单击版\Polenter.SharpSerializer.xml
+D:\DLG单击版\ZYSocketFrame.dll
+D:\DLG单击版\ZYSocketShare.dll
+D:\DLG单击版\QcPublic.dll
+D:\DLG单击版\QcPublic.pdb
+D:\ROOT\Polenter.SharpSerializer.dll
+D:\ROOT\Polenter.SharpSerializer.xml
+D:\ROOT\ZYSocketFrame.dll
+D:\ROOT\ZYSocketShare.dll
+D:\ROOT\QcPublic.dll
+D:\ROOT\QcPublic.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\x86\Release\QcPublic.csprojResolveAssemblyReference.cache
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\x86\Release\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\x86\Release\QcPublic.pdb

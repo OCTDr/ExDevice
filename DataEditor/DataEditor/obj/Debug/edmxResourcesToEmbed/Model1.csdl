@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TaskSet" EntityType="Model1.Task" />
+    <EntitySet Name="jobsSet" EntityType="Model1.jobs" />
+    <AssociationSet Name="jobsTask" Association="Model1.jobsTask">
+      <End Role="jobs" EntitySet="jobsSet" />
+      <End Role="Task" EntitySet="TaskSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Type" Type="String" Nullable="false" />
+    <Property Name="DeviceCount" Type="String" Nullable="false" />
+    <NavigationProperty Name="jobs" Relationship="Model1.jobsTask" FromRole="Task" ToRole="jobs" />
+  </EntityType>
+  <EntityType Name="jobs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Task" Relationship="Model1.jobsTask" FromRole="jobs" ToRole="Task" />
+    <Property Name="Jobid" Type="String" Nullable="false" />
+    <Property Name="JobName" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="jobsTask">
+    <End Type="Model1.jobs" Role="jobs" Multiplicity="1" />
+    <End Type="Model1.Task" Role="Task" Multiplicity="*" />
+  </Association>
+</Schema>

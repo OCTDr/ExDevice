@@ -1,0 +1,26 @@
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.dll
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.pdb
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\ResolveAssemblyReference.cache
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.Resources.resources
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\GenerateResource.read.1.tlog
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\GenerateResource.write.1.tlog
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.dll
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.xml
+E:\质检平台开发源程序\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.pdb
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\bin\x86\Release\PublicConstValue.dll
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\bin\x86\Release\PublicConstValue.pdb
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\bin\x86\Release\PublicConstValue.xml
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\obj\x86\Release\PublicConstValue.Resources.resources
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\obj\x86\Release\PublicConstValue.vbproj.GenerateResource.Cache
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\obj\x86\Release\PublicConstValue.dll
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\obj\x86\Release\PublicConstValue.xml
+E:\工作资料\2017年工作\6_技能竞赛\PublicConstValue\obj\x86\Release\PublicConstValue.pdb
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.dll
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.pdb
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\bin\x86\Release\PublicConstValue.xml
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.Resources.resources
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.vbproj.GenerateResource.Cache
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.dll
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.xml
+D:\OCT\IGCES项目文件\08 代码文件\ZJPT_DevProject\PublicConstValue\obj\x86\Release\PublicConstValue.pdb

@@ -1,0 +1,5 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\TestWcf\bin\TestWcf.dll.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\TestWcf\bin\TestWcf.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\TestWcf\bin\TestWcf.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\TestWcf\obj\Debug\TestWcf.dll
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\TestWcf\obj\Debug\TestWcf.pdb

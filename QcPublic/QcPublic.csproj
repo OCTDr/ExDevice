@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{120AA29B-EF13-43EF-B7E2-99CCA4B2859F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QcPublic</RootNamespace>
+    <AssemblyName>QcPublic</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <DocumentationFile>bin\Debug\QcPublic.XML</DocumentationFile>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <NoWarn>1591</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\QcPublic.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <DocumentationFile>
+    </DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\..\..\..\..\ROOT\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\QcPublic.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>..\bin\x64\Release\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\3rdLib\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZYSocketFrame">
+      <HintPath>..\..\..\..\迅雷下载\ZYSocketFrame2\北风之神SOCKET框架(ZYSocket)DLL\ZYSocketFrame.dll</HintPath>
+    </Reference>
+    <Reference Include="ZYSocketShare">
+      <HintPath>..\..\..\..\迅雷下载\ZYSocketFrame2\北风之神SOCKET框架(ZYSocket)DLL\ZYSocketShare.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interface\QcNewNode.cs" />
+    <Compile Include="Interface\QcNode.cs" />
+    <Compile Include="Interface\QcSyncNode.cs" />
+    <Compile Include="QcDataBase\DbHelper.cs" />
+    <Compile Include="DynamicObject\DynamicDataObject.cs" />
+    <Compile Include="DynamicObject\DynamicIniConfig.cs" />
+    <Compile Include="DynamicObject\DynamicXml.cs" />
+    <Compile Include="DynamicObject\ExpandoObjectTypeDescriptor.cs" />
+    <Compile Include="DynamicObject\DynamicDataTypeDescriptor.cs" />
+    <Compile Include="DynamicObject\QcTypeConverter.cs" />
+    <Compile Include="Interface\QcNodeCompare.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QcCheckResult.cs" />
+    <Compile Include="QcCode.cs" />
+    <Compile Include="QcDataBase\QcDbTransaction.cs" />
+    <Compile Include="QcDev\QcDevice.cs" />
+    <Compile Include="QcDev\QcDeviceDescriptor.cs" />
+    <Compile Include="QcDisk.cs" />
+    <Compile Include="QcEva\QcProductOperator.cs" />
+    <Compile Include="QcEva\QcCheckEntry.cs" />
+    <Compile Include="QcEva\QcCloneHelper.cs" />
+    <Compile Include="QcEva\QcQuaelement.cs" />
+    <Compile Include="QcEva\QcSubQuaelement.cs" />
+    <Compile Include="QcHardWare.cs" />
+    <Compile Include="QcInfo\QcStandardBorrow.cs" />
+    <Compile Include="QcInfo\QcStandardDescriptor.cs" />
+    <Compile Include="QcIns\QcErrorCode.cs" />
+    <Compile Include="QcIns\QcEvaCalcHelper.cs" />
+    <Compile Include="QcIns\QcEvaCheckData.cs" />
+    <Compile Include="QcIns\QcEvaCheckReCode.cs" />
+    <Compile Include="QcIns\QcEvaData.cs" />
+    <Compile Include="QcIns\QcEvaDataEntry.cs" />
+    <Compile Include="QcIns\QcEvaDataRow.cs" />
+    <Compile Include="QcIns\QcEvaPara.cs" />
+    <Compile Include="QcIns\QcEvaQaData.cs" />
+    <Compile Include="QcIns\QcEvaSubQaData.cs" />
+    <Compile Include="QcLicense.cs" />
+    <Compile Include="QcLog.cs" />
+    <Compile Include="Interface\IQcNode.cs" />
+    <Compile Include="QcNet\QcMessagner.cs" />
+    <Compile Include="QcNet\QcMessagnerCS.cs" />
+    <Compile Include="QcNet\Interface\clsSocketKeeplive.cs" />
+    <Compile Include="QcNet\Interface\INetUser.cs" />
+    <Compile Include="QcNet\Interface\IQcDataReciver.cs" />
+    <Compile Include="QcNet\Interface\IQcSocket.cs" />
+    <Compile Include="QcNet\QcMsg.cs" />
+    <Compile Include="QcNet\QcMsgClient.cs" />
+    <Compile Include="QcNet\QcMsgServer.cs" />
+    <Compile Include="QcNet\QcMessagnerP2P.cs" />
+    <Compile Include="QcNet\QcMsgPoster.cs" />
+    <Compile Include="QcNet\通信层\clsClientService.cs" />
+    <Compile Include="QcNet\抽象层\QcChanel.cs" />
+    <Compile Include="QcNet\通信层\clsTCPCSFramework.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="QcNet\通信层\QcClient.cs" />
+    <Compile Include="QcNet\协议\QcCmd.cs" />
+    <Compile Include="QcNet\协议\QcCoder.cs" />
+    <Compile Include="QcNet\抽象层\QcMessagnerBase.cs" />
+    <Compile Include="QcNet\抽象层\QcMsgUser.cs" />
+    <Compile Include="QcNet\协议\QcProtocol.cs" />
+    <Compile Include="QcNet\通信层\QcServer.cs" />
+    <Compile Include="QcNet\通信层\SocketClient.cs" />
+    <Compile Include="QcProtect.cs" />
+    <Compile Include="QcPro\QcCheckData.cs" />
+    <Compile Include="QcPro\QcCheckProject.cs" />
+    <Compile Include="QcPro\QcCheckProjectDescriptor.cs" />
+    <Compile Include="QcPro\QcCheckRule.cs" />
+    <Compile Include="QcPro\QcJob.cs" />
+    <Compile Include="QcPro\QcNameConverter.cs" />
+    <Compile Include="QcPro\QcProDescriptor.cs" />
+    <Compile Include="QcPro\QcProductLevel.cs" />
+    <Compile Include="QcEva\QcElementDescriptor.cs" />
+    <Compile Include="QcPro\QcProductLevelDescriptor.cs" />
+    <Compile Include="QcPro\QcProductType.cs" />
+    <Compile Include="QcDate.cs" />
+    <Compile Include="QcPro\QcProject.cs" />
+    <Compile Include="QcPro\QcRecentlyJob.cs" />
+    <Compile Include="QcPro\QcTask.cs" />
+    <Compile Include="QcInfo\QcCompany.cs" />
+    <Compile Include="QcInfo\QcCompanyDescriptor.cs" />
+    <Compile Include="QcTimeLine.cs" />
+    <Compile Include="QcUsers\clsEncrypt.cs" />
+    <Compile Include="QcUsers\QcDepartment.cs" />
+    <Compile Include="QcUsers\QcPermission.cs" />
+    <Compile Include="QcUsers\QcRole.cs" />
+    <Compile Include="QcUsers\QcUser.cs" />
+    <Compile Include="QcUsers\QcUserDescriptor.cs" />
+    <Compile Include="QcDataBase\SqlChecker.cs" />
+    <Compile Include="QcInfo\QcStandard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Polenter.SharpSerializer.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Polenter.SharpSerializer.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZYSocketFrame.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZYSocketShare.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Customparamtype\Customparamtype.csproj">
+      <Project>{33A914F6-3495-49C3-95A7-6C79E5868E2F}</Project>
+      <Name>Customparamtype</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PublicConstValue\PublicConstValue.vbproj">
+      <Project>{B88E8515-F468-43BD-A992-1FBAF05A1134}</Project>
+      <Name>PublicConstValue</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="QcRep\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

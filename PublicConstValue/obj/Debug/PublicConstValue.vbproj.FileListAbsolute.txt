@@ -1,0 +1,8 @@
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\bin\Debug\PublicConstValue.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\bin\Debug\PublicConstValue.pdb
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\bin\Debug\PublicConstValue.xml
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\obj\Debug\PublicConstValue.Resources.resources
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\obj\Debug\PublicConstValue.vbproj.GenerateResource.Cache
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\obj\Debug\PublicConstValue.dll
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\obj\Debug\PublicConstValue.xml
+D:\工作相关\程序开发\信息化测绘仪器检定系统\PublicConstValue\obj\Debug\PublicConstValue.pdb

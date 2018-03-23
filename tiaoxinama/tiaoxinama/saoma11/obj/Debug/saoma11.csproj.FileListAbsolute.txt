@@ -1,0 +1,122 @@
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\saoma11.exe.config
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\saoma11.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\saoma11.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.exe
+C:\Users\dell\Documents\Visual Studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.pdb
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.Form2.resources
+C:\Users\dell\documents\visual studio 2017\Projects\tiaoxinama\saoma11\obj\Debug\saoma11.exe.licenses
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.csprojResolveAssemblyReference.cache
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.Form1.resources
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.Form2.resources
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.Properties.Resources.resources
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.csproj.GenerateResource.Cache
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.exe.licenses
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.exe
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\obj\Debug\saoma11.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\saoma11.exe.config
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\saoma11.exe
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\saoma11.pdb
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\AForge.Video.DirectShow.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\AForge.Video.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Data.v17.1.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\zxing.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Data.v17.1.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\程序开发\测绘仪器检定信息化服务平台\tiaoxinama\tiaoxinama\saoma11\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll

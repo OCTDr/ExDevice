@@ -1,0 +1,53 @@
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.xml
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\ZYSocketFrame.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\ZYSocketShare.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\QcPublic.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\QcPublic.pdb
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Customparamtype.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Customparamtype.pdb
+E:\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\ResolveAssemblyReference.cache
+E:\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\QcPublic.dll
+E:\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\QcPublic.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.xml
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\ZYSocketFrame.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\ZYSocketShare.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\QcPublic.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\QcPublic.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Customparamtype.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\Customparamtype.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\QcPublic.csprojResolveAssemblyReference.cache
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\QcPublic.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\obj\Release\QcPublic.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\PublicConstValue.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\PublicConstValue.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\ZJPT815\QcPlat\QcLib\QcPublic\bin\Release\PublicConstValue.xml
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.xml
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\ZYSocketFrame.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\ZYSocketShare.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\QcPublic.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\QcPublic.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\Customparamtype.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\PublicConstValue.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\Customparamtype.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\PublicConstValue.pdb
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\bin\Release\PublicConstValue.xml
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\obj\Release\QcPublic.csprojResolveAssemblyReference.cache
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\obj\Release\QcPublic.dll
+F:\信息化测绘质检平台-IGCES\平台源代码\SVN_WorkingCopy\IGCES\QcLib\QcPublic\obj\Release\QcPublic.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\Polenter.SharpSerializer.xml
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\ZYSocketFrame.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\ZYSocketShare.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\QcPublic.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\Customparamtype.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\PublicConstValue.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\Customparamtype.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\PublicConstValue.pdb
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\bin\Release\PublicConstValue.xml
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Release\QcPublic.csprojResolveAssemblyReference.cache
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Release\QcPublic.dll
+D:\program development\程序开发\信息化质检平台客户端\QCPlatform410\QcLib\QcPublic\obj\Release\QcPublic.pdb
